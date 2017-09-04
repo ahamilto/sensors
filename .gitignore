@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+arduino/sensors_json_server/sensors_json_server.h
