@@ -1,0 +1,8 @@
+To compile, copy sensors_json_server_default.h to sensors_json_server.h
+and edit the settings to your liking
+
+You will also need the following Libaries imported into your Arduino IDE
+
+Adafruit Unified Sensor (https://github.com/adafruit/Adafruit_Sensor)
+Adafruit DHT Sensor Library (https://github.com/adafruit/DHT-sensor-library)
+EtherCard (https://github.com/jcw/ethercard)
